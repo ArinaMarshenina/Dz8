@@ -1,0 +1,15 @@
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.csproj.AssemblyReference.cache
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.AssemblyInfoInputs.cache
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.AssemblyInfo.cs
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.csproj.CoreCompileInputs.cache
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\bin\Debug\net6.0\Zadacha62.exe
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\bin\Debug\net6.0\Zadacha62.deps.json
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\bin\Debug\net6.0\Zadacha62.runtimeconfig.json
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\bin\Debug\net6.0\Zadacha62.dll
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\bin\Debug\net6.0\Zadacha62.pdb
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.dll
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\obj\Debug\net6.0\refint\Zadacha62.dll
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.pdb
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\obj\Debug\net6.0\Zadacha62.genruntimeconfig.cache
+C:\Users\hilar\OneDrive\Рабочий стол\DZ8\Zadacha62\obj\Debug\net6.0\ref\Zadacha62.dll
